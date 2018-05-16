@@ -17,3 +17,18 @@ openwhisk/_test/output/
 openwhisk/action/
 openwhisk/compile/
 openwhisk/debug.test
+
+# IntelliJ
+.idea
+*.class
+*.iml
+out/
+/tests/build/
+/tests/bin/
+
+# Eclipse
+**/.project
+.settings/
+.classpath
+.cache-main
+.cache-tests
